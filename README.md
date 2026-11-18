@@ -17,10 +17,10 @@ B.Tech CSE (AI & ML) student building machine learning and NLP applications in P
 
 ## Tech stack
 
-**Languages:** Python, SQL, C++, JavaScript
-**ML & NLP:** Scikit-learn, TF-IDF, Logistic Regression, Naive Bayes, model evaluation
-**Data:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
-**Tools:** Streamlit, Git, GitHub, VS Code
+- **Languages:** Python, SQL, C++, JavaScript
+- **ML & NLP:** Scikit-learn, TF-IDF, Logistic Regression, Naive Bayes, model evaluation
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
+- **Tools:** Streamlit, Git, GitHub, VS Code
 
 ## Contact
 
