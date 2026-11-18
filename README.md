@@ -12,8 +12,8 @@ B.Tech CSE (AI & ML) student building machine learning and NLP applications in P
 |---|---|---|
 | [Movie Review Sentiment Analysis](https://github.com/priyanshiKhattri23/Movie-Review-Sentiment-Analysis) | NLP sentiment classifier using TF-IDF and Logistic Regression, with a Streamlit interface | 88.9% accuracy on IMDb |
 | [Spam Email Classifier](https://github.com/priyanshiKhattri23/Spam-Email-Classifier) | Spam/Ham classifier using TF-IDF and Multinomial Naive Bayes, with a Streamlit interface | 96% accuracy |
-| [Hotel Booking Prediction](https://github.com/priyanshiKhattri23/ml_hotelbooking_prediction) | Predicts booking cancellations with EDA, feature engineering and model evaluation | Add your best metric |
-| [Bank Management Streamlit](https://github.com/priyanshiKhattri23/bank-management-streamlit) | Streamlit app with a bank-management interface | Add a live link |
+| [Hotel Booking Prediction](https://github.com/priyanshiKhattri23/ml_hotelbooking_prediction) | Predicts booking cancellations with EDA, feature engineering and model evaluation | 
+| [Bank Management Streamlit](https://github.com/priyanshiKhattri23/bank-management-streamlit) | Streamlit app with a bank-management interface | Bank management interface built with Python and Streamlit |
 
 ## Tech stack
 
@@ -26,4 +26,4 @@ B.Tech CSE (AI & ML) student building machine learning and NLP applications in P
 
 - Email: priyanshikhattri962@gmail.com
 - LinkedIn: [linkedin.com/in/priyanshi-khattri](https://www.linkedin.com/in/priyanshi-khattri)
-- Portfolio: add your portfolio link here
+- Portfolio: [priyanshikhattri23.github.io](https://priyanshikhattri23.github.io)
